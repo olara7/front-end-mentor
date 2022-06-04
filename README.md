@@ -8,6 +8,7 @@ Live Site: https://qr-component-frontendmentor.netlify.app/
 
 ### Expense Chart
 I learned how to make and customize charts with Chart JS and React. I was able to customize the chart extensively and really make it my own.
+
 I managed to customize things like grid lines, colors, corner radius, hover information and color.
 Live Site: https://clever-seahorse-fbd85f.netlify.app/
 ![expense-chart](https://user-images.githubusercontent.com/54912970/171577263-f4561893-0ea9-4ba8-90ac-6beb8b0ed483.PNG)
